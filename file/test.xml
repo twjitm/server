@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE properties SYSTEM "http://java.sun.com/dtd/properties.dtd">
+<properties>
+<comment>这个是我将properties文件中的内容加载到xml文件中的 </comment>
+<entry key="age">23</entry>
+<entry key="name">twj</entry>
+<entry key="school">河北大学</entry>
+<entry key="sex">男</entry>
+<entry key="girl">李硕宁</entry>
+</properties>

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry excluding="lib/" kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.7"/>
+	<classpathentry exported="true" kind="lib" path="src/lib/commons-pool-1.5.4.jar"/>
+	<classpathentry kind="lib" path="src/lib/jedis2.4.1.jar"/>
+	<classpathentry kind="lib" path="src/lib/mina-core-2.0.16.jar"/>
+	<classpathentry kind="lib" path="src/lib/slf4j-api-1.6.1.jar"/>
+	<classpathentry kind="lib" path="src/lib/slf4j-log4j12-1.6.1.jar"/>
+	<classpathentry kind="lib" path="src/lib/log4j-1.2.12.jar"/>
+	<classpathentry kind="lib" path="src/lib/fastjson-1.2.28.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
